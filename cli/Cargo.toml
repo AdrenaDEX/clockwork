@@ -12,8 +12,8 @@ keywords = ["solana"]
 build = "build.rs"
 
 [dependencies]
-anchor-lang = "0.28.0"
-anchor-spl = { features = ["mint", "token"], version = "0.28.0" }
+anchor-lang = "0.29.0"
+anchor-spl = { features = ["mint", "token"], version = "0.29.0" }
 anyhow = "1.0.61"
 bincode = "1.3.3"
 bzip2 = "0.4"
